@@ -9,7 +9,6 @@ public class tasksForLesson_1_6 {
         boolean check2 = checkingForPositivity(b);
         System.out.println(check2);
     }
-
     public static boolean checkingForPositivity(int x){
         if (x < 0) {
             return true;

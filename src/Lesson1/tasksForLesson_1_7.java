@@ -7,7 +7,6 @@ public class tasksForLesson_1_7 {
         sayHello(name1);
         sayHello(name2);
     }
-
     public static void sayHello(String name){
         System.out.println("Hi, my name is " + name);
     }

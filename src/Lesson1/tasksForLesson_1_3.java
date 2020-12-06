@@ -9,7 +9,6 @@ public class tasksForLesson_1_3 {
         float result = calculation(x, y, z, w);
         System.out.println(result);
     }
-
     static float calculation(float a, float b, float c, float d) {
         float r = a * (b + (c / d));
         return r;
