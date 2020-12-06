@@ -1,11 +1,9 @@
-package com.company;
+package Lesson1;
 
 public class tasksForLesson_1_6 {
     public static void main(String[] args) {
-
         int a = 5;
         int b = -7;
-
         boolean check1 = checkingForPositivity(a);
         System.out.println(check1);
         boolean check2 = checkingForPositivity(b);
